@@ -45,5 +45,3 @@ wordcloud (WordCloud, STOPWORDS)
 
 ## American Standard Version
 ![asv_wordcloud](https://user-images.githubusercontent.com/10213983/204638507-e8d39300-1c1a-47ca-ae68-6b0185a43e85.png)
-
-
