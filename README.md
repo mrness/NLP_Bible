@@ -3,22 +3,18 @@
 
 ## Project Overview
 
-In this project I will be exploring the method of NLP (Natural Language Processing) to see how negative or positive the text in the Bible and Quran are.By adding the ascent and spaceytextblog pipelines to the spacy model, I will be able to extract the polarity which is a number on a scale from -1 to 1 denoting how "positive" or "negative" text are.
+In this project I will be exploring the world of NLP (Natural Language Processing) to see how negative or positive the text in the Bible and Quran are. By adding the ascent and spaceytextblog pipelines to the spacy model, I will be able to extract the polarity which is a number on a scale from -1 to 1 denoting how "positive" or "negative" text are. Once aggregated and grouped by book or Juz, I should be able to see the polarity of thet texts from start to finish.
 
 ## Imports
 
-numpy
-spacy
-asent
-SpacyTextBlob
-pandas
-WordCloud
-matplotlib.pyplot
-%matplotlib inline
-wordcloud (WordCloud, STOPWORDS)
+![image](https://user-images.githubusercontent.com/10213983/204729422-18447f21-f3a1-4798-a404-6996895edf91.png)
 
+## Methods
+In order to meaningfully analyze text data, which comprises of over 75% of all data online, you have to be able to analyze each word separately. 
+This method of separating all of the words from one another is called toekization. I created a spaCy model and added the asent, sentensizer, 
+and spacytextblob pipelines to the model.
 
-# Findings
+![image](https://user-images.githubusercontent.com/10213983/204728941-ad66452a-0913-4ba8-b057-a3180d1fdaa0.png)
 
 
 ## Findings
